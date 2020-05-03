@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Tic-tac-toe game](https://imgur.com/a/lVFsGHE)
+![Tic-tac-toe game](https://i.imgur.com/zXL4uSZ.jpg)
 
 ## Available Scripts
 
